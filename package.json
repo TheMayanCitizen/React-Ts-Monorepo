@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start:01-bases": "npm --workspace packages/01-Bases run dev",
+    "start:react-app": "npm --workspace packages/react-app run dev",
     "build": "npm run --workspaces build",
     "dev": "npm run --workspaces dev"
   },
