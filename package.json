@@ -6,6 +6,7 @@
   "scripts": {
     "start:01-bases": "npm --workspace packages/01-Bases run dev",
     "start:02-react-app": "npm --workspace packages/02-react-app run dev",
+    "start:03-compound-pattern": "npm --workspace packages/03-Compound-Pattern run dev",
     "build": "npm run --workspaces build",
     "dev": "npm run --workspaces dev"
   },
